@@ -17,4 +17,15 @@
 - this.props
 - this.state
 
+# Internal Component Lifecycle
+- constructor
+- mountComponent
+- receiveComponent
+- updateComponent
+- unmountComponent
 
+
+# Base calss API (Multichild)
+- mountChildren
+- updateChildren
+- unmountChildren
